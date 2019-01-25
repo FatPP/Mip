@@ -1,0 +1,25 @@
+{
+  "development": {
+    "env": "dev",
+    "baseURL": "mams-rest",
+    "biz":"biz-m-rest",
+    "pscURL": "crc-psc-business-rest",
+    "browse": "http://myd.crc.com.cn/mams-rest/",
+    "key": "h1k2#3s4f5d6%7d8s9@0s1f2"
+  },
+  "sit": {
+    "env": "sit",
+    "baseURL": "mams-rest",
+    "biz":"biz-m-rest",
+    "pscURL": "crc-psc-business-rest",
+    "browse": "http://myd.crc.com.cn/mams-rest/",
+    "key": "h1k2#3s4f5d6%7d8s9@0s1f2"
+  },
+  "prd": {
+    "env": "prd",
+    "baseURL": "mams-rest",
+    "pscURL": "crc-psc-business-rest",
+    "browse": "http://myd.crc.com.cn/mams-rest/",
+    "key": "h1k2#3s4f5d6%7d8s9@0s1f2"
+  }
+}
